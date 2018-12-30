@@ -8,7 +8,6 @@ A Tribute to Dr. Norman Borlaug. The webpage states his timeline.
 
 # Technologies
 Project is created with :
-- React version : 16.7
 - Sass: 4.11
 - jQuery: 3.3
 - gulp: 4.0
