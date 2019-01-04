@@ -4,7 +4,7 @@ A Tribute to Dr. Norman Borlaug. The webpage shows his timeline.
 ![screenshot](https://s3-us-west-2.amazonaws.com/i.cdpn.io/2011965.mQBXJJ.small.03687f15-d51d-40c5-b513-103fe96f1ca5.png)
 
 # Visit
- Visit page on [github](https://1xwebbyx1.github.io/tribute-page/).
+ Visit page on [github](https://1xwebbyx1.github.io/tribute-webpage/).
 
 # Technologies
 Project is created with :
