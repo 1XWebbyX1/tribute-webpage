@@ -77,18 +77,18 @@ body {
     #timeline .card > svg {
       margin: 0;
       fill: #525252; }
-    #timeline .card #border {
+    #timeline .card .border {
       width: 90%;
       height: 90%;
       margin: 0 10%;
       border-left: 3px solid #525252;
       background: #0d0d0d; }
-      #timeline .card #border > h1 {
+      #timeline .card .border > h1 {
         border-bottom: 1px solid #997300;
         font-size: 2em;
         margin: 0 4%;
         color: #997300; }
-      #timeline .card #border > p {
+      #timeline .card .border > p {
         font-size: 1.8em;
         margin: 1% 4%; }
   #timeline #tribute-link {
